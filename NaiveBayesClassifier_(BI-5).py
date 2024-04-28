@@ -1,3 +1,5 @@
+# Perform the data classification algorithm using any Classification algorithm using Naive Bayes Classifier
+
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.datasets import load_iris
